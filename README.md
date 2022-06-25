@@ -94,3 +94,5 @@ Do not add your database (db.sqlite) to version control (GitHub).
 Ensure your final code/submission is on the default branch of your GitHub repository.
 
 Submit the link to your Github repository 
+
+GitHub pages: https://imported82.github.io/Django-CRUD/
